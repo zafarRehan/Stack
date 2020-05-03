@@ -1,0 +1,6 @@
+com.mafiadevelopers.stack.BuildConfig
+com.mafiadevelopers.stack.R
+com.mafiadevelopers.stack.R$drawable
+com.mafiadevelopers.stack.R$mipmap
+com.mafiadevelopers.stack.R$string
+com.mafiadevelopers.stack.R$style

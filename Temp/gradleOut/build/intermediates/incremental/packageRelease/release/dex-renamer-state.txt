@@ -1,0 +1,4 @@
+#Sat Apr 04 16:35:24 IST 2020
+base.0=C\:\\Users\\Rehan Zafar\\Documents\\Stack\\Temp\\gradleOut\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
