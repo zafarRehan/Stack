@@ -7,6 +7,4 @@ would be a goood start for beginners learning Unity
 
 Screenshot:
 
-<img src="/Screenshot_stack.jpg" width="100" height="100"/>
-
-![Alt text](/Screenshot_stack.jpg | width= 100)
+<img src="/Screenshot_stack.jpg" width="250"/>
