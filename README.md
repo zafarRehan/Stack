@@ -7,4 +7,4 @@ would be a goood start for beginners learning Unity
 
 Screenshot:
 
-![Alt text](/Screenshot_stack.jpg "Optional title")
+![Alt text](/Screenshot_stack.jpg | width= 100)
