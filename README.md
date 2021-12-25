@@ -7,4 +7,4 @@ would be a goood start for beginners learning Unity
 
 Screenshot:
 
-![Alt text](https://drive.google.com/file/d/1itJlc-G1K01Buy6ObLS3GJLYsEHzNlqH/view?usp=sharing "Optional title")
+![Alt text](/Screenshot_stack.jpg?raw=true "Optional title")
